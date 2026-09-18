@@ -14,7 +14,7 @@ void printSet(const std::string& name, const std::set<int>& s) {
         }
     }
     std::cout << "}\n";
-}
+} 
 
 // Функція для об'єднання множин (U)
 std::set<int> SetUnion(const std::set<int>& s1, const std::set<int>& s2) {
